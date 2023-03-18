@@ -1,0 +1,4 @@
+# Ignore provider.tf
+*/provider.tf
+*/.terraform
+*.hcl
